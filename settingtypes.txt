@@ -1,0 +1,1 @@
+blastjump.default_power (Default blastjump blaster power) int 10
